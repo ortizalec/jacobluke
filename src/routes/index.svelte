@@ -30,7 +30,7 @@ flex-col sm:flex-row h-[100vh]">
     <h1 class="text-4xl text-center max-w-[15ch] sm:max-w-none">Trustworthy, Reliable, and Kind</h1>
   </div>
   <!--Cards--> 
-  <div class="flex justify-center sm:max-w-[90vw] gap-8 flex-wrap">
+  <div class="flex justify-center max-w-[90vw] gap-8 flex-wrap">
     <div class="border border-suit-gray p-5 w-[400px] flex flex-col gap-4">
       <h2 class="text-xl font-bold">Made our transaction easy and painless.</h2>
       <p class="italic">It was such a pleasure working with Jacob
